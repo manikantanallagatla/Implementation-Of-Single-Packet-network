@@ -1,7 +1,7 @@
-#***Implementation Of Single Packet network***:
+# ***Implementation Of Single Packet network***:
 
 ----------
-###*Abstract*:
+### *Abstract*:
 
 ----------
 
@@ -22,21 +22,21 @@ performance and efficiency of multi core processors will be increased, which are
 devices and systems.
 
 -------------
-###*Softwares Used*:
+### *Softwares Used*:
 
 -------------
 
 Xilinx 14.2
 
 -------------
-###*Languages Written*:
+### *Languages Written*:
 
 -------------
 
 VHDL
 
 -------------
-###*Usage*:
+### *Usage*:
 
 -------------
 The Diagram of Network is present in Network.png.
